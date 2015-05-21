@@ -7,8 +7,6 @@ As a developer on the web, you will sometimes be tasked with creating an html pa
 
 ### Learning Objectives
 
-After completing this assignment, you should…
-
 Upon completion of this assignment, you should:
 
 * Understand the proper use and function of html tags.
@@ -20,15 +18,16 @@ Upon completion of this assignment, you should:
 
 After completing this assignment, you be able to effectively use
 
-* Use sectioning html tags
+* Master HTML tags
 * Effectively utilize some common css layout strategies (float or inline-block)
+* Demonstrate static web site creation
 
 
 ## Details
 
 ### Deliverables
 
-* A repo containing at least:
+* A Middleman repo containing at least:
   * `index.html`
   * 'styles.css'
   * 'images/'
@@ -38,11 +37,14 @@ After completing this assignment, you be able to effectively use
 ### Requirements
 
 * The resulting web page cannot just be an image of the assignment centered on the page :)
+* Use Middleman, and middleman's asset pipeline 
+* Deploy Middleman site to GitHub pages
+* Do not use Bootstrap or another UI Framework.
 
 
 ## Normal Mode
 
-Using the image located `assets/surf-and-paddle.png`, create a html document using html and css to look like below, but be a function website:
+Using the image located `assets/surf-and-paddle.png`, create a middleman project and while using html and css to look like below, but be a function website:
 
 ![Surf and paddle image](assets/surf-and-paddle.png)
 
@@ -52,5 +54,8 @@ Complete Normal Mode then make the website fully responsive and adhering to this
 
 ## Additional Resources
 
+* Explore Codepen on [Cover](http://codepen.io/jwo/pen/GJqeRo)
+* Explore Codepen on [Hover](http://codepen.io/jwo/pen/EjyrMe)
+* Explore Codepen on [Tint/Overlay](http://codepen.io/jwo/pen/XbKGWP)
 * Read [Learn Layout](http://learnlayout.com/)
 * Read [HTML tag content categories](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories)
